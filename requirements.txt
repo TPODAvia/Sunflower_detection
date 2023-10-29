@@ -1,0 +1,9 @@
+opencv-python
+python-csv
+torch
+torchvision
+numpy
+shutil
+ultralytics
+tqdm
+virtualenv
