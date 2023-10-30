@@ -3,7 +3,7 @@ python-csv
 torch
 torchvision
 numpy
-shutil
+# shutil
 ultralytics
 tqdm
 virtualenv
